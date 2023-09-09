@@ -6,13 +6,11 @@ Project Details:
 1. App name: Crust Task Manager
 2. The app consists of three screens (Welcome, Login and TaskManager)
 3. UI design: minimalistic, choice of color and app name is inspired by Crust Africa.
-4. 
-5. 
 
 Welcome Screen:
 1. Simple app logo/image
 2. App name: crust
-3. Tagline
+3. Tagline: simple description of the app
 4. Call to action button (Get Started) 
 
 Login Screen:
